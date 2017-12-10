@@ -1,3 +1,6 @@
 git add --all
-git commit -m ""
+pause
+git commit -m "upload"
+pause
 git push -u origin master
+pause
